@@ -7,7 +7,7 @@
 [![NodeJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
 
-Weathered is a simple and free weather forecast app, it doesn't event require API keys, it's just build and use!
+Weathered is a simple and free weather forecast app, it doesn't event require API keys, just build and enjoy!
 
 ## Features
 
