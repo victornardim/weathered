@@ -1,0 +1,23 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/location/search",
+    "queryStringParameters": {
+      "q": [
+        "são paulo"
+      ],
+      "format": [
+        "json"
+      ]
+    }
+  },
+  "response": {
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": [
+        "application/json"
+      ]
+    },
+    "body": "[\n  {\n    \"place_id\": 286306071,\n    \"licence\": \"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright\",\n    \"osm_type\": \"node\",\n    \"osm_id\": 30674098,\n    \"boundingbox\": [\n      \"-23.7106507\",\n      \"-23.3906507\",\n      \"-46.7933824\",\n      \"-46.4733824\"\n    ],\n    \"lat\": \"-23.5506507\",\n    \"lon\": \"-46.6333824\",\n    \"display_name\": \"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01001-000, Brasil\",\n    \"place_rank\": 16,\n    \"category\": \"place\",\n    \"type\": \"city\",\n    \"importance\": 0.8861749119420277,\n    \"icon\": \"https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png\"\n  },\n  {\n    \"place_id\": 284996414,\n    \"licence\": \"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright\",\n    \"osm_type\": \"relation\",\n    \"osm_id\": 298285,\n    \"boundingbox\": [\n      \"-24.0079003\",\n      \"-23.3577551\",\n      \"-46.8262906\",\n      \"-46.3650898\"\n    ],\n    \"lat\": \"-23.682648\",\n    \"lon\": \"-46.71680311042481\",\n    \"display_name\": \"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, Brasil\",\n    \"place_rank\": 16,\n    \"category\": \"boundary\",\n    \"type\": \"administrative\",\n    \"importance\": 0.8861749119420277,\n    \"icon\": \"https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png\"\n  }\n]"
+  }
+}

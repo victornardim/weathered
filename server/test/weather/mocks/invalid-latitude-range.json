@@ -1,0 +1,5 @@
+{
+  "statusCode": 400,
+  "message": "Latitude must be in a range between -90 and 90",
+  "error": "Bad Request"
+}

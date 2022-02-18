@@ -1,0 +1,26 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/location/reverse",
+    "queryStringParameters": {
+      "lat": [
+        "-23.5506507"
+      ],
+      "lon": [
+        "-46.6333824"
+      ],
+      "format": [
+        "json"
+      ]
+    }
+  },
+  "response": {
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": [
+        "application/json"
+      ]
+    },
+    "body": "{\n  \"place_id\": 49475440,\n  \"licence\": \"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright\",\n  \"osm_type\": \"way\",\n  \"osm_id\": 342203444,\n  \"lat\": \"-23.5342494\",\n  \"lon\": \"-46.6255518\",\n  \"display_name\": \"726, Rua João Teodoro, Vila Sá Barbosa, Bom Retiro, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01105-000, Brasil\",\n  \"address\": {\n    \"house_number\": \"726\",\n    \"road\": \"Rua João Teodoro\",\n    \"suburb\": \"Vila Sá Barbosa\",\n    \"city_district\": \"Bom Retiro\",\n    \"city\": \"São Paulo\",\n    \"municipality\": \"Região Imediata de São Paulo\",\n    \"county\": \"Região Metropolitana de São Paulo\",\n    \"state_district\": \"Região Geográfica Intermediária de São Paulo\",\n    \"state\": \"São Paulo\",\n    \"region\": \"Região Sudeste\",\n    \"postcode\": \"01105-000\",\n    \"country\": \"Brasil\",\n    \"country_code\": \"br\"\n  },\n  \"boundingbox\": [\n    \"-23.5342994\",\n    \"-23.5341994\",\n    \"-46.6256018\",\n    \"-46.6255018\"\n  ]\n}"
+  }
+}

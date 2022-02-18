@@ -1,0 +1,7 @@
+{
+  "statusCode": 400,
+  "message": [
+    "longitude must be a longitude string or number"
+  ],
+  "error": "Bad Request"
+}

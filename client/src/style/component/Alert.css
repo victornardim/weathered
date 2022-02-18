@@ -1,0 +1,49 @@
+.alert {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  pointer-events: auto;
+}
+
+.alert .content {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.alert .icon {
+  margin-right: 0.5rem;
+}
+
+.alert.info {
+  border: 1px solid rgb(35, 125, 228);
+  background-color: rgba(200, 225, 253, 0.8);
+}
+
+.alert.info .icon {
+  color: rgb(35, 125, 228);
+}
+
+.alert.success {
+  border: 1px solid rgb(82, 231, 68);
+  background-color: rgba(204, 255, 199, 0.8);
+}
+
+.alert.success .icon {
+  color: rgb(82, 231, 68);
+}
+
+.alert.error {
+  border: 1px solid rgb(236, 61, 61);
+  background-color: rgba(255, 213, 213, 0.8);
+}
+
+.alert.error .icon {
+  color: rgb(236, 61, 61);
+}
+
+.alert .close {
+  padding-left: 0.5rem;
+}

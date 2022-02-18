@@ -1,0 +1,23 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/location/search",
+    "queryStringParameters": {
+      "q": [
+        "invalid location"
+      ],
+      "format": [
+        "json"
+      ]
+    }
+  },
+  "response": {
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": [
+        "application/json"
+      ]
+    },
+    "body": "[]"
+  }
+}

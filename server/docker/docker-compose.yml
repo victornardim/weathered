@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+    mmock:
+        image: jordimartin/mmock
+        container_name: api_faker
+        volumes:
+            - ./api/:/config
+        ports:
+            - 8083:8083

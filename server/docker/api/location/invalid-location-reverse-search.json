@@ -1,0 +1,26 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/location/reverse",
+    "queryStringParameters": {
+      "lat": [
+        "-50"
+      ],
+      "lon": [
+        "-10"
+      ],
+      "format": [
+        "json"
+      ]
+    }
+  },
+  "response": {
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": [
+        "application/json"
+      ]
+    },
+    "body": "{\n  \"error\": \"Unable to geocode\"\n}"
+  }
+}

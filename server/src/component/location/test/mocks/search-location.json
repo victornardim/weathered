@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": 284910268,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 298344,
+    "boundingbox": [
+      "-20.932",
+      "-20.6351046",
+      "-49.463",
+      "-49.256"
+    ],
+    "lat": "-20.796608010933422",
+    "lon": "-49.38267744702845",
+    "display_name": "São José do Rio Preto, Região Imediata de São José do Rio Preto, Região Geográfica Intermediária de São José do Rio Preto, São Paulo, Região Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 1.0435224580914348,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 285659911,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 5683275,
+    "boundingbox": [
+      "-20.918282",
+      "-20.6847591",
+      "-49.463",
+      "-49.271"
+    ],
+    "lat": "-20.803",
+    "lon": "-49.363068181818186",
+    "display_name": "São José do Rio Preto, Região Imediata de São José do Rio Preto, Região Geográfica Intermediária de São José do Rio Preto, São Paulo, Região Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.8,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"
+  }
+]

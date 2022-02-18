@@ -1,0 +1,26 @@
+{
+  "moduleFileExtensions": [
+    "js",
+    "json",
+    "ts"
+  ],
+  "rootDir": "..",
+  "testEnvironment": "node",
+  "testRegex": ".e2e-spec.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "collectCoverageFrom": [
+    "**/*.ts",
+    "!**/*.d.ts",
+    "!**/*.spec.ts",
+    "!**/*.mock.ts",
+    "!**/*.interceptor.ts",
+    "!**/*.module.ts",
+    "!**/*.client.ts",
+    "!**/*.dto.ts",
+    "!**/*.interface.ts",
+    "!**/app.ts",
+    "!**/main.ts"
+  ]
+}

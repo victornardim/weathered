@@ -1,0 +1,28 @@
+{
+  "place_id": 196893736,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 407297566,
+  "lat": "-20.796608010933422",
+  "lon": "-49.38267744702845",
+  "display_name": "Rua Campos Salles, Boa Vista, São José do Rio Preto, Região Imediata de São José do Rio Preto, Região Geográfica Intermediária de São José do Rio Preto, São Paulo, Região Sudeste, 15025-025, Brasil",
+  "address": {
+    "road": "Rua Campos Salles",
+    "suburb": "Boa Vista",
+    "city_district": "São José do Rio Preto",
+    "city": "São José do Rio Preto",
+    "municipality": "Região Imediata de São José do Rio Preto",
+    "state_district": "Região Geográfica Intermediária de São José do Rio Preto",
+    "state": "São Paulo",
+    "region": "Região Sudeste",
+    "postcode": "15025-025",
+    "country": "Brasil",
+    "country_code": "br"
+  },
+  "boundingbox": [
+    "-20.7985202",
+    "-20.7959263",
+    "-49.3847179",
+    "-49.3819503"
+  ]
+}
