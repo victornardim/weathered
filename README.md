@@ -19,7 +19,7 @@ You can find all information about the current place forecast, including:
 
 * Current forecast place
 * Current forecast date
-* Curent temperature and windspeed
+* Current temperature and windspeed
 * Min and max temperature of the day
 * Textual weather of the day
 * A chart with the daily temperature, windspeed and humidity, displayed in periods of 3 hours
