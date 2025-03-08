@@ -17,7 +17,7 @@ Generally the application fetches the forecast for a week, and you can navigate 
 
 You can find all information about the current place forecast, including:
 
-* Curent forecast place
+* Current forecast place
 * Current forecast date
 * Curent temperature and windspeed
 * Min and max temperature of the day
